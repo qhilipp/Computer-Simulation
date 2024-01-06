@@ -1,0 +1,16 @@
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.exe
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.deps.json
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.runtimeconfig.json
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.runtimeconfig.dev.json
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.dll
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\bin\Debug\netcoreapp3.1\ComputerSimulation.pdb
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.csprojAssemblyReference.cache
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.AssemblyInfoInputs.cache
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.AssemblyInfo.cs
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.dll
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.pdb
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.genruntimeconfig.cache
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.Form1.resources
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.Table.resources
+C:\Users\Philipp\Desktop\Code\C#\ComputerSimulation\ComputerSimulation\obj\Debug\netcoreapp3.1\ComputerSimulation.csproj.GenerateResource.cache
